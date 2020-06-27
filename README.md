@@ -33,9 +33,9 @@ $ git commit -m "first commit"   // 把添加的文件提交到版本库，并�
 
 $ git remote add origin https://github.com/embarassed01/XXXXXX.git  // 把本地库与远程库关联
 
-$ git push -u origin master    // 第一次推送时
+$ git push -u origin master    // 第一次推送时 。会提示输入用户名，密码
 
-$ git push origin master      // 第一次推送后，直接使用该命令即可推送修改
+$ git push origin master      // 第一次推送后，直接使用该命令即可推送修改。会提示输入用户名，密码
 
 5.(2) 当以后提交时，使用如下命令：
 
@@ -43,5 +43,5 @@ $ git add .
 
 $ git commit -m "some 提交注释"
 
-$ git push origin master
+$ git push origin master     //  会提示输入用户名，密码
 
