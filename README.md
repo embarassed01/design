@@ -5,7 +5,7 @@ e.g.:
 
 (1) c implement of C++ STL
 
-(2) c pure implement of crypt-based tools decryptor, like "john the ripper"
+(2) c pure implement of ccdd
 
 # git shell use:
 
