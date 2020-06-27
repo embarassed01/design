@@ -45,3 +45,5 @@ $ git commit -m "some 提交注释"
 
 $ git push origin master     //  会提示输入用户名，密码
 
+6.以后使用时，请使用git pull用于更新；使用git push推送上传同步。
+
