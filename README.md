@@ -16,7 +16,7 @@ $ git clone https://github.com/embarassed01/XXXXXX.git
 4. windows下右击该目录的根目录，选择“Git Bash here”，打开Linux虚拟shell环境；
 
     or , linux下进到该目录的根目录下：
-    
+
 5. 更新本地缓存并推送到网站仓库，必须“commit”才会生效：
 
 5.(1) 当第一次提交时，使用如下命令：
