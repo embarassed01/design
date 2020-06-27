@@ -1,9 +1,9 @@
 #include "common.h"
 
-void main()
+int main()
 {
 	printf("hello, vs c world!");
 	// todo ...
 	;
-	return;
+	return -1;
 }
