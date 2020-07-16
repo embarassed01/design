@@ -1,7 +1,0 @@
-﻿  common.cpp
-  main.cpp
-c:\users\administrator\desktop\design\vs-design\vs-design\main.cpp(4): warning C4326: “main”的返回类型应为“int”而非“void”
-  types.cpp
-c:\users\administrator\desktop\design\vs-design\vs-design\stl\types.cpp(73): warning C4101: “formal_name”: 未引用的局部变量
-  正在生成代码...
-  vs-design.vcxproj -> C:\Users\Administrator\Desktop\design\vs-design\Debug\vs-design.exe
